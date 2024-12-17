@@ -1,6 +1,5 @@
 Aqui está um modelo de **README.md** para o seu projeto **Ollama Local com Llama Index**:  
 
-```markdown
 # 🧠 Projeto: IA Local com Ollama e Llama Index  
 
 Este repositório contém a implementação de um sistema que utiliza **modelos de linguagem locais**, como o **Ollama**, integrado ao **Llama Index**, para desenvolver soluções personalizadas, como:  
@@ -46,9 +45,6 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou
 ### 🌟 **Contato**  
 
 Se tiver dúvidas ou sugestões, entre em contato:  
-📧 **[Medium](https://medium.com/@erickson1.dev))**  
+📧 **[Medium](https://medium.com/@erickson1.dev)**  
 💼 **[Curriculo](www.linkedin.com/in/erickson-santos-36a607318)**  
 
-```  
-
-Adapte conforme necessário, especialmente os links e informações de contato!
